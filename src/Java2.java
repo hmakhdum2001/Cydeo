@@ -5,6 +5,7 @@ public class Java2 {
 
         System.out.println("Hello World");
         System.out.println("This is my 1st Github Project");
+        System.out.println("This is my 2nd attempt");
 
 
 
